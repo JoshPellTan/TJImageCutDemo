@@ -148,7 +148,7 @@
             size.height = masterImage.size.height + slaveImage.size.height;
         }
             break;
-        case directidirectionTypeLeftAndRight:
+        case directionTypeLeftAndRight:
         {
             size.width = masterImage.size.width+slaveImage.size.width;
             size.height = masterImage.size.height;
@@ -171,7 +171,7 @@
             [slaveImage drawInRect:CGRectMake(0, masterImage.size.height, masterImage.size.width, slaveImage.size.height)];
         }
             break;
-        case directidirectionTypeLeftAndRight:
+        case directionTypeLeftAndRight:
         {
             //Draw masterImage
             [masterImage drawInRect:CGRectMake(0, 0, masterImage.size.width, masterImage.size.height)];

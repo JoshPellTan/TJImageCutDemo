@@ -124,7 +124,7 @@
     
     if (sender.tag == 999) {
         
-        img = [[TJLongImgCut manager] addSlaveImage:[UIImage imageNamed:@"BG13"] toMasterImage:[UIImage imageNamed:@"bg11"] directionType:directidirectionTypeLeftAndRight];
+        img = [[TJLongImgCut manager] addSlaveImage:[UIImage imageNamed:@"BG13"] toMasterImage:[UIImage imageNamed:@"bg11"] directionType:directionTypeUpAndDown];
         
         self.showView.frame = CGRectMake(0, 0, KScreenSize.width*0.4, KScreenSize.height*0.8);
         self.showView.image = img;

@@ -10,7 +10,7 @@
 
 typedef NS_ENUM(NSInteger, directionType) {
     directionTypeUpAndDown = 0,
-    directidirectionTypeLeftAndRight = 1,
+    directionTypeLeftAndRight = 1,
 };
 
 @interface TJLongImgCut : UIView

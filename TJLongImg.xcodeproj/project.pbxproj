@@ -115,7 +115,7 @@
 				TargetAttributes = {
 					618C8CA71E24B6F6005D228E = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = KBVY2PGG5V;
+						DevelopmentTeam = UNEC8F9P65;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -278,7 +278,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = KBVY2PGG5V;
+				DEVELOPMENT_TEAM = UNEC8F9P65;
 				INFOPLIST_FILE = TJLongImg/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = cn.Joshpell.TJLongImg;
@@ -291,7 +291,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = KBVY2PGG5V;
+				DEVELOPMENT_TEAM = UNEC8F9P65;
 				INFOPLIST_FILE = TJLongImg/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = cn.Joshpell.TJLongImg;
