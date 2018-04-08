@@ -7,12 +7,12 @@
 
 拼接截图：
 
-<img src="https://github.com/JoshPellTan/TJImageCutDemo/raw/master/IMG_2983.JPG" width="170" height="300" alt="image"/>
+<img src="https://github.com/JoshPellTan/TJImageCutDemo/raw/master/IMG_2983.JPG" width="340" height="300" alt="image"/>
 
-<img src="https://github.com/JoshPellTan/TJImageCutDemo/raw/master/IMG_2984.JPG" width="170" height="300" alt="image"/>
+<img src="https://github.com/JoshPellTan/TJImageCutDemo/raw/master/IMG_2984.JPG" width="170" height="600" alt="image"/>
 
 
 截长图
 
-<img src="https://github.com/JoshPellTan/TJImageCutDemo/raw/master/IMG_2981.JPG" width="170" height="300" alt="image"/>
+<img src="https://github.com/JoshPellTan/TJImageCutDemo/raw/master/IMG_2981.JPG" width="200" height="800" alt="image"/>
 
