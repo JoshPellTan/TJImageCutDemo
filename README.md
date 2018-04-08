@@ -3,14 +3,16 @@
 
 普通截图：
 
-<img src="https://github.com/JoshPellTan/TJImageCutDemo/raw/master/IMG_2982.JPG" width="100" height="200" alt="image"/>
-![image](https://github.com/JoshPellTan/TJImageCutDemo/raw/master/IMG_2982.JPG)
+<img src="https://github.com/JoshPellTan/TJImageCutDemo/raw/master/IMG_2982.JPG" width="170" height="300" alt="image"/>
 
 拼接截图：
 
-![image](https://github.com/JoshPellTan/TJImageCutDemo/raw/master/IMG_2983.JPG)
-![image](https://github.com/JoshPellTan/TJImageCutDemo/raw/master/IMG_2984.JPG)
+<img src="https://github.com/JoshPellTan/TJImageCutDemo/raw/master/IMG_2983.JPG" width="170" height="300" alt="image"/>
+
+<img src="https://github.com/JoshPellTan/TJImageCutDemo/raw/master/IMG_2984.JPG" width="170" height="300" alt="image"/>
+
 
 截长图
 
-![image](https://github.com/JoshPellTan/TJImageCutDemo/raw/master/IMG_2981.JPG)
+<img src="https://github.com/JoshPellTan/TJImageCutDemo/raw/master/IMG_2981.JPG" width="170" height="300" alt="image"/>
+
