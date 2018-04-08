@@ -3,6 +3,7 @@
 
 普通截图：
 
+<img src="https://github.com/JoshPellTan/TJImageCutDemo/raw/master/IMG_2982.JPG" width="100" height="200" alt="image"/>
 ![image](https://github.com/JoshPellTan/TJImageCutDemo/raw/master/IMG_2982.JPG)
 
 拼接截图：
